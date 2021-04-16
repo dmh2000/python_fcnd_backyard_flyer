@@ -1,4 +1,6 @@
-# FCND - Backyard Flyer Project
+# Udacity Flying Car Nanodegree - Backyard Flyer Project
+https://confirm.udacity.com/PTFQRS24
+
 In this project, you'll set up a state machine using event-driven programming to autonomously flying a drone. You will be using flying a quadcopter in Unity simulator. After completing this assignment, you'll be familiar with sending commands and receiving incoming data from the drone. 
 
 The python code you write is similar to how the drone would be controlled from a ground station computer or an onboard flight computer. Since communication with the drone is done using MAVLink, you will be able to use your code to control an PX4 quadcopter autopilot with very little modification!
